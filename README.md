@@ -1,5 +1,5 @@
 # CATopalian JavaScript Sun Report
-A JavaScript application that shows a Custom Scientific Solar Report with real time data from Nasa and NOAA.  
+A JavaScript application that shows a Custom Scientific Solar Report with real time data from NASA and NOAA.  
 
 If you enjoy my apps and tutorials please consider buying me a coffee at [paypal.me/keystonermarch](https://www.paypal.com/paypalme/keystonermarch)  
 
