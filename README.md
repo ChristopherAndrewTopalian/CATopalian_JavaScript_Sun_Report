@@ -3,6 +3,8 @@ A JavaScript application that shows a Custom Scientific Solar Report with real t
 
 USE APP: https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Sun_Report/CATopalian_JavaScript_Sun_Report.html
 
+![screenshot_001](src/media/textures/screenshots/001.JPG)  
+
 If you enjoy my apps and tutorials please consider buying me a coffee at [paypal.me/keystonermarch](https://www.paypal.com/paypalme/keystonermarch)  
 
 ---
