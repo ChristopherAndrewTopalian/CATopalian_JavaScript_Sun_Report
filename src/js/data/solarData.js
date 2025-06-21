@@ -6,6 +6,22 @@ let height001 = 400;
 let solarData =
 [
     {
+        name: "Space Weather Overview",
+        url: "https://services.swpc.noaa.gov/images/swx-overview-small.gif",
+        description: "Overview",
+        theWidth: width001,
+        theHeight: height001
+    },
+
+    {
+        name: "MAG & SWEPAM",
+        url: "https://services.swpc.noaa.gov/images/ace-mag-swepam-24-hour.gif?time=1750511738000",
+        description: "Solar Wind Data",
+        theWidth: width001,
+        theHeight: height001
+    },
+
+    {
         name: "LASCO/C3",
         url: "https://soho.nascom.nasa.gov/data/LATEST/current_c3.gif",
         description: "Animated Gif from LASCO/C3",
@@ -86,14 +102,6 @@ let solarData =
     },
 
     {
-        name: "Space Weather Overview",
-        url: "https://services.swpc.noaa.gov/images/swx-overview-small.gif",
-        description: "Overview",
-        theWidth: width001,
-        theHeight: height001
-    },
-
-    {
         name: "WSA-Enlil Prediction",
         url: "https://services.swpc.noaa.gov/images/animations/enlil/latest.jpg",
         description: "WSA-Enlil Prediction",
@@ -131,7 +139,16 @@ let solarData =
         description: "Animated Gif from EIT 304A",
         theWidth: width001,
         theHeight: height001
-    }
+    },
+
+    {
+        name: "HMI Intensitygram - colored",
+        url: "https://sdo.gsfc.nasa.gov/assets/img/latest/latest_1024_HMIIC.jpg",
+        description: "Intensity",
+        theWidth: width001,
+        theHeight: height001
+    },
+
 ];
 
 //----//
@@ -141,6 +158,4 @@ let solarData =
 // https://github.com/ChristopherTopalian
 // https://github.com/ChristopherAndrewTopalian
 // https://sites.google.com/view/CollegeOfScripting
-// College of Scripting Music & Science
-// Donations to paypal.me/keystonermarch
 
