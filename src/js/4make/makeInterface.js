@@ -2,6 +2,10 @@
 
 function makeInterface(whichArray)
 {
+    ba(makeTitleOfApp());
+
+    //-//
+
     let titleOfApp = ce("div");
     titleOfApp.textContent = "CATopalian JavaScript Sun Report";
     titleOfApp.style.fontSize = "30px";
@@ -14,7 +18,6 @@ function makeInterface(whichArray)
     lineBreakUnderTitle.style.marginLeft = '0'; 
     lineBreakUnderTitle.style.marginRight = 'auto'; 
     ba(lineBreakUnderTitle);
-
 
     //-//
 

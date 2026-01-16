@@ -2,15 +2,6 @@
 
 function makeTitleOfApp()
 {
-    let mainDiv = ce('div');
-    mainDiv.style.position = 'fixed';
-    mainDiv.style.right = '5px';
-    mainDiv.style.top = '5px';
-    mainDiv.style.width = 100 + 'px';
-    ba(mainDiv);
-
-    //-//
-
     let titleOfApp = ce('a');
     titleOfApp.id = 'titleOfApp';
     titleOfApp.textContent = 'CATopalian JavaScript Sun Report';
@@ -19,8 +10,8 @@ function makeTitleOfApp()
     titleOfApp.style.fontSize = '17px';
     titleOfApp.style.fontWeight = 'bold';
     titleOfApp.style.textDecoration = 'none';
-    titleOfApp.style.color = 'rgb(100, 100, 100)';
-    mainDiv.append(titleOfApp);
+    titleOfApp.style.color = 'rgb(170, 170, 170)';
+    return titleOfApp;
 }
 
 //----//
